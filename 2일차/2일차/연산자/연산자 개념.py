@@ -1,0 +1,8 @@
+x = int(input('가나다'))
+y = int(input('숫자입력'))
+print (f"x == y의 결과값: {x==y}")
+print (f"x != y의 결과값: {x!=y}")
+print (f"x > y의 결과값: {x>y}")
+print (f"x < y의 결과값: {x<y}")
+print (f"x >= y의 결과값: {x>=y}")
+print (f"x <= y의 결과값: {x<=y}")
